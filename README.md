@@ -1,3 +1,7 @@
-# Título principal (H1)
+# Título principal (H1) #
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFz5fYgrepcP696Zm4ZtlldGLC6hEr83HUhDcUWJoyK2l-Rqp2YrkMskunDA_R5Hy-722xpQrOgG2-ZhAuOhuQ1aBRtwaf4jp3tfRNlNQKmg&s=10)
 ![Texto alternativo](images.webp)
+
+<p align="center">
+    <img src="ruta/imagen.png" alt="Descripción" width="500"/>
+</p>
