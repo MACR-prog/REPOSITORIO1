@@ -1,2 +1,1 @@
-# REPOSITORIO1
-Repositorio trabajo asistido :v
+# Título principal (H1)
