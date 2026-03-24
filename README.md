@@ -3,5 +3,5 @@
 ![Texto alternativo](images.webp)
 
 <p align="center">
-    <img src="ruta/imagen.png" alt="Descripción" width="500"/>
+    <img src="ruta/images.webp" alt="Descripción" width="500"/>
 </p>
