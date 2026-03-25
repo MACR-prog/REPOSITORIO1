@@ -20,7 +20,7 @@
 </div>
 
 ## 🌈 Sobre el Proyecto
-Este sistema está diseñado para gestionar la **recolección, cuidado y adopción** de perros y gatos en situación de calle. Queremos transformar el caos en amor organizado.
+<strong>importante</strong>Este sistema está diseñado para gestionar la **recolección, cuidado y adopción** de perros y gatos en situación de calle. Queremos transformar el caos en amor organizado.
 
 ### ✨ Características Principales
 * **Registro Dinámico:** Formulario interactivo para nuevos ingresos.
