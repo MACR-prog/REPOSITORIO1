@@ -9,7 +9,9 @@
 </p>
 
 ---
-> [!IMPORTANT]
+<blockquote>
+  <strong>Nota de Salud Mental:</strong> Este es un proyecto de carácter investigativo y académico. No sustituye la asesoría de profesionales de la salud mental.
+</blockquote>
 > Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
 ---
 
