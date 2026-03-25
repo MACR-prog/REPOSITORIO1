@@ -10,9 +10,7 @@
 
 
 ---
-<blockquote>
-  <strong>Nota de Salud Mental:</strong> Este es un proyecto de carácter investigativo y académico. No sustituye la asesoría de profesionales de la salud mental.
-</blockquote>
+<p>Este es un texto <strong>importante</strong>.</p>
 ---
 
 ### 🐱 ¡Salvando vidas, una patita a la vez! 🐶
