@@ -9,6 +9,9 @@
 </p>
 
 ---
+> [!IMPORTANT]
+> Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
+---
 
 ### 🐱 ¡Salvando vidas, una patita a la vez! 🐶
 
