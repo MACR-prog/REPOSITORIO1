@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/Tecnologías-HTML%20|%20JS-blue?style=for-the-badge" />
 </p>
 
+
 ---
 <blockquote>
   <strong>Nota de Salud Mental:</strong> Este es un proyecto de carácter investigativo y académico. No sustituye la asesoría de profesionales de la salud mental.
 </blockquote>
-> Este repositorio forma parte de una investigación académica enfocada en la infraestructura logística de Bogotá.
 ---
 
 ### 🐱 ¡Salvando vidas, una patita a la vez! 🐶
